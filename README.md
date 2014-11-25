@@ -5,7 +5,7 @@ CSE360 Project(Image Storeage)
 
 (View in RAW format)
 
-Image Storage:
+Image Storage: 
 
 Download EasyPHP Webserver http://www.easyphp.org/save-easyphp-webserver-latest.php?d=direct Download EasyPHP Devserver http://www.easyphp.org/save-easyphp-devservervc11-latest.php?d=direct
 
