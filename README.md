@@ -7,10 +7,6 @@ CSE360 Project(Image Storeage)
 
 Image Storage:
 
-The code above emulates the depiction of localweb C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb It does not compile within an HTML. Follow the steps below to make it run.
-
-https://cloud.githubusercontent.com/assets/9562542/4962882/5173619a-66ed-11e4-8fc5-4734991557df.png https://cloud.githubusercontent.com/assets/9562542/4962886/868b7796-66ed-11e4-8648-00f16f4ef062.png
-
 Download EasyPHP Webserver http://www.easyphp.org/save-easyphp-webserver-latest.php?d=direct Download EasyPHP Devserver http://www.easyphp.org/save-easyphp-devservervc11-latest.php?d=direct
 
 Download Lychee https://github.com/electerious/Lychee/archive/master.zip
